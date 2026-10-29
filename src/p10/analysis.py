@@ -18,6 +18,7 @@ import time
 import traceback
 import zipfile
 from datetime import datetime, timezone
+from decimal import Decimal, ROUND_HALF_UP
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Mapping, Optional, Tuple
 
@@ -431,6 +432,16 @@ def _window_rows(wdf: pd.DataFrame) -> List[Tuple[int, str, float, float, str, s
     return out
 
 
+def format_two_decimal_percent(value: float) -> str:
+    """Format an already-percent-valued boundary with conventional midpoint rounding.
+
+    Six-decimal normalization prevents floating-point representation artefacts at
+    decimal halfway cases, for example 15.075 -> 15.08 rather than 15.07.
+    This is display formatting only and never changes stored boundaries.
+    """
+    return format(Decimal(f"{float(value):.6f}").quantize(Decimal("0.01"), rounding=ROUND_HALF_UP), ".2f")
+
+
 def _plot_ladder(ax, wdf: pd.DataFrame, title: str, xlim: Tuple[float,float] = (9, 40.5)) -> None:
     rows = _window_rows(wdf)
     if not rows:
@@ -448,7 +459,7 @@ def _plot_ladder(ax, wdf: pd.DataFrame, title: str, xlim: Tuple[float,float] = (
             ax.text(min(hi,xlim[1]-.8),ypos+.17,">40% (domain limit)",fontsize=6.5,ha="right",va="bottom")
         else:
             ax.plot(hi,ypos,marker="|",ms=16,mew=1.2,color="#222222")
-            ax.text(hi-.25,ypos-.18,f"{hi:.2f}%",fontsize=7,ha="right",va="top")
+            ax.text(hi-.25,ypos-.18,f"{format_two_decimal_percent(hi)}%",fontsize=7,ha="right",va="top")
     ax.set_yticks(range(len(rows)),[r[1] for r in rows]); ax.set_ylim(-.5,max(2.5,len(rows)-.5)); ax.set_xlim(*xlim)
     ax.axvline(15,ls=":",lw=.9,color="#555555"); ax.set_xlabel("Feed CO$_2$ (%)"); ax.set_title(title); ax.grid(axis="x",alpha=.12)
 
