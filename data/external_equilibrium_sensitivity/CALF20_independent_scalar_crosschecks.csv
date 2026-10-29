@@ -1,0 +1,5 @@
+source_id,material_form,adsorbate,temperature_K,pressure_bar,loading_mol_kg,qst_kJ_mol,henry_mol_kg_bar,data_role,doi,notes
+WEI2022_RSCADV_CALF20_N2,independently synthesized activated CALF-20 powder,N2,298.0,0.1,0.033,,0.35,external scalar validation,10.1039/D2RA02768B,Directly reported scalar; do not merge automatically with nominal CALF-20 fit because batch/sample protocol differs.
+WEI2022_RSCADV_CALF20_N2,independently synthesized activated CALF-20 powder,N2,298.0,1.0,0.29,16.9,0.35,external scalar validation,10.1039/D2RA02768B,~ values as reported in article text.
+CALDERON2025_INORGCHEM_CALF20,CALF-20-SOL separate synthesis batch,CO2,298.0,1.0,3.38,39.09,,external scalar validation,10.1021/acs.inorgchem.4c04727,Table 2; zero-loading Qst. Separate batch from Nguyen/Liske process dataset.
+CALDERON2025_INORGCHEM_CALF20,CALF-20-SOL separate synthesis batch,CO2,273.0,1.0,4.65,39.09,,external scalar validation,10.1021/acs.inorgchem.4c04727,"Table 2; 1 bar uptake at 273 K. Separate synthesis batch; external extrapolation cross-check only, not calibration."

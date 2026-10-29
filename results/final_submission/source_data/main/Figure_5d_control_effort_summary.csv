@@ -1,0 +1,4 @@
+policy,policy_display,policy_objective,on_spec_states,total_states,on_spec_fraction,total_log_actuator_movement,minimum_authority_movement_reduction_vs_reoptimization_percent,additional_on_spec_states_vs_frozen,recovered_states_per_unit_log_actuator_movement
+frozen,Frozen,No adaptation; nominal settings retained,2,4,0.5,0.0,30.06201347329339,0,
+full_reoptimization_grid,Energy-min re-optimization,"Energy-first feasible grid search: minimize idealized vacuum-work proxy, then maximize productivity",4,4,1.0,1.473449660847696,30.06201347329339,2,1.3573588926338838
+minimum_authority,Minimum authority,"Minimum adaptation level, then minimum control movement (Linf/L1)",4,4,1.0,1.0305010252814657,30.06201347329339,2,1.9408035032800965

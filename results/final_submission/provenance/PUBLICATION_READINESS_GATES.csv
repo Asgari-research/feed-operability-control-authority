@@ -1,0 +1,11 @@
+gate,status,note
+Frozen baseline baseline,PASS,Reduced-order numerical baseline preserved and consistency-checked.
+Final publication hierarchy,PASS,One canonical root; one active main Table 1; zero-row legacy results excluded from active tables.
+95/90 co-primary recalculation,PASS,"Conventional benchmark recalculated, not relabelled."
+Composition-resolved breakthrough traces,PARTIAL,Verified conditions/scalars retained; exact trace coordinates are not fabricated. Optional trace import is supported.
+Control Jacobian/SVD,PASS,Near-collinearity/local ill-conditioning is explicitly distinguished from nonlinear global operability.
+Layered uncertainty,PARTIAL,Calibration-conditioned uncertainty is separated from source/model-form and kinetic/front sensitivity.
+Equipment realizability,PASS,Equipment-constrained boundaries use the recalculated variant and adaptive refinement when available.
+Composition x feed-flow generalization,PASS,Discrete evaluated scenario coverage is reported; not mislabelled as continuous area.
+Quasi-steady disturbance policy test,PASS,Duplicate legacy rows removed; re-optimization objective and actuator movement are explicit.
+High-fidelity CSS,NOT_RUN,Timeout/process errors remain numerical indeterminacy; physical support requires PASS same-rig validation.

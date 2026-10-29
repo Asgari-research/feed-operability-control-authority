@@ -1,0 +1,125 @@
+feed_co2_fraction,adaptation_level,adaptation_variant,actuator_choice_degenerate,actuator_preference_class,pressure_candidate_feasible,timing_candidate_feasible,pressure_candidate_effort,timing_candidate_effort,actuator_effort_delta_pressure_minus_timing,pressure_candidate_p_reg_bar,timing_candidate_timing_scale,policy_selection_rule
+0.02,3,none_feasible,,,,,,,,,,
+0.02316666666666667,3,none_feasible,,,,,,,,,,
+0.026333333333333334,3,none_feasible,,,,,,,,,,
+0.0295,3,none_feasible,,,,,,,,,,
+0.03266666666666666,3,none_feasible,,,,,,,,,,
+0.03583333333333333,3,none_feasible,,,,,,,,,,
+0.039,3,none_feasible,,,,,,,,,,
+0.04216666666666667,3,none_feasible,,,,,,,,,,
+0.04533333333333334,3,none_feasible,,,,,,,,,,
+0.0485,3,none_feasible,,,,,,,,,,
+0.05,3,none_feasible,,,,,,,,,,
+0.051666666666666666,3,none_feasible,,,,,,,,,,
+0.05483333333333333,3,none_feasible,,,,,,,,,,
+0.057999999999999996,3,none_feasible,,,,,,,,,,
+0.06116666666666666,3,none_feasible,,,,,,,,,,
+0.06433333333333334,3,none_feasible,,,,,,,,,,
+0.0675,3,none_feasible,,,,,,,,,,
+0.07066666666666667,3,none_feasible,,,,,,,,,,
+0.07383333333333333,3,none_feasible,,,,,,,,,,
+0.077,3,none_feasible,,,,,,,,,,
+0.08016666666666666,3,none_feasible,,,,,,,,,,
+0.08333333333333333,3,none_feasible,,,,,,,,,,
+0.08650000000000001,3,none_feasible,,,,,,,,,,
+0.08966666666666667,3,none_feasible,,,,,,,,,,
+0.09283333333333334,3,none_feasible,,,,,,,,,,
+0.096,3,extended_pressure_timing,,,,,,,,,,
+0.09916666666666667,3,extended_pressure_timing,,,,,,,,,,
+0.10233333333333333,3,extended_pressure_timing,,,,,,,,,,
+0.1055,3,extended_pressure_timing,,,,,,,,,,
+0.10866666666666668,2,pressure_plus_timing,,,,,,,,,,
+0.11183333333333334,2,pressure_plus_timing,,,,,,,,,,
+0.115,2,pressure_plus_timing,,,,,,,,,,
+0.11816666666666667,2,pressure_plus_timing,,,,,,,,,,
+0.12133333333333333,2,pressure_plus_timing,,,,,,,,,,
+0.1245,2,pressure_plus_timing,,,,,,,,,,
+0.12766666666666665,2,pressure_plus_timing,,,,,,,,,,
+0.13083333333333333,2,pressure_plus_timing,,,,,,,,,,
+0.13399999999999998,1,pressure_only,False,pressure_only,True,False,0.07507500000000025,,,0.044314642902537414,,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.13716666666666666,1,pressure_only,False,pressure_only,True,False,0.050050000000000046,,,0.04613404172952942,,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.14033333333333334,1,pressure_only,False,pressure_only,True,False,0.02502500000000006,,,0.04802813848647968,,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.1435,0,frozen,,,,,,,,,,
+0.14666666666666664,0,frozen,,,,,,,,,,
+0.14983333333333332,0,frozen,,,,,,,,,,
+0.15,0,frozen,,,,,,,,,,
+0.153,1,timing_only,False,timing,True,True,0.02502500000000006,0.0192749526465471,0.0057500473534529625,0.04802813848647968,0.9770833333333333,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.15616666666666665,1,timing_only,False,timing,True,True,0.02502500000000006,0.0192749526465471,0.0057500473534529625,0.04802813848647968,0.9770833333333333,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.15933333333333333,1,timing_only,False,timing,True,True,0.02502500000000006,0.0192749526465471,0.0057500473534529625,0.04802813848647968,0.9770833333333333,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.16249999999999998,1,timing_only,False,timing,True,True,0.02502500000000006,0.0192749526465471,0.0057500473534529625,0.04802813848647968,0.9770833333333333,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.16566666666666666,1,timing_only,False,timing,True,True,0.02502500000000006,0.0192749526465471,0.0057500473534529625,0.04802813848647968,0.9770833333333333,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.1688333333333333,1,pressure_only,False,pressure,True,True,0.02502500000000006,0.042645969657665345,-0.017620969657665284,0.04802813848647968,0.95,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.172,1,pressure_only,False,pressure,True,True,0.02502500000000006,0.042645969657665345,-0.017620969657665284,0.04802813848647968,0.95,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.17516666666666666,1,timing_only,False,timing,True,True,0.050050000000000046,0.042645969657665345,0.007404030342334701,0.04613404172952942,0.95,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.17833333333333332,1,timing_only,False,timing,True,True,0.050050000000000046,0.042645969657665345,0.007404030342334701,0.04613404172952942,0.95,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.1815,1,timing_only,False,timing,True,True,0.050050000000000046,0.042645969657665345,0.007404030342334701,0.04613404172952942,0.95,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.18466666666666665,1,pressure_only,False,pressure,True,True,0.050050000000000046,0.06669299331525447,-0.01664299331525442,0.04613404172952942,0.9229166666666666,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.18783333333333332,1,pressure_only,False,pressure,True,True,0.050050000000000046,0.06669299331525447,-0.01664299331525442,0.04613404172952942,0.9229166666666666,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.19099999999999998,1,pressure_only,False,pressure,True,True,0.050050000000000046,0.06669299331525447,-0.01664299331525442,0.04613404172952942,0.9229166666666666,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.19416666666666665,1,timing_only,False,timing,True,True,0.07507500000000025,0.06669299331525447,0.008382006684745785,0.044314642902537414,0.9229166666666666,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.19733333333333333,1,timing_only,False,timing,True,True,0.07507500000000025,0.06669299331525447,0.008382006684745785,0.044314642902537414,0.9229166666666666,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.20049999999999998,1,pressure_only,False,pressure,True,True,0.07507500000000025,0.09145629844287911,-0.01638129844287886,0.044314642902537414,0.8958333333333333,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.20366666666666666,1,pressure_only,False,pressure,True,True,0.07507500000000025,0.09145629844287911,-0.01638129844287886,0.044314642902537414,0.8958333333333333,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.2068333333333333,1,timing_only,False,timing,True,True,0.10009999999999983,0.09145629844287911,0.008643701557120714,0.042566996126039244,0.8958333333333333,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.21,1,timing_only,False,timing,True,True,0.10009999999999983,0.09145629844287911,0.008643701557120714,0.042566996126039244,0.8958333333333333,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.21316666666666664,1,timing_only,False,timing,True,True,0.10009999999999983,0.09145629844287911,0.008643701557120714,0.042566996126039244,0.8958333333333333,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.21633333333333332,1,pressure_only,False,pressure,True,True,0.10009999999999983,0.11697986987678706,-0.016879869876787232,0.042566996126039244,0.8687499999999999,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.21949999999999997,1,pressure_only,False,pressure,True,True,0.10009999999999983,0.11697986987678706,-0.016879869876787232,0.042566996126039244,0.8687499999999999,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.22266666666666665,1,timing_only,False,timing,True,True,0.1251250000000001,0.11697986987678706,0.008145130123213037,0.04088827169789712,0.8687499999999999,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.22583333333333333,1,timing_only,False,timing,True,True,0.1251250000000001,0.11697986987678706,0.008145130123213037,0.04088827169789712,0.8687499999999999,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.22899999999999998,1,timing_only,False,timing,True,True,0.1251250000000001,0.11697986987678706,0.008145130123213037,0.04088827169789712,0.8687499999999999,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.23216666666666666,1,pressure_only,False,pressure,True,True,0.1251250000000001,0.1433118726160335,-0.01818687261603341,0.04088827169789712,0.8416666666666668,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.2353333333333333,1,timing_only,True,near_degenerate,True,True,0.15015000000000006,0.1433118726160335,0.006838127383966552,0.039275751511588214,0.8416666666666668,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.2385,1,timing_only,True,near_degenerate,True,True,0.15015000000000006,0.1433118726160335,0.006838127383966552,0.039275751511588214,0.8416666666666668,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.24166666666666664,1,timing_only,True,near_degenerate,True,True,0.15015000000000006,0.1433118726160335,0.006838127383966552,0.039275751511588214,0.8416666666666668,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.24483333333333332,1,timing_only,True,near_degenerate,True,True,0.15015000000000006,0.1433118726160335,0.006838127383966552,0.039275751511588214,0.8416666666666668,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.24799999999999997,1,timing_only,True,near_degenerate,True,True,0.17517499999999991,0.17050519889061672,0.004669801109383198,0.037726824655182456,0.8145833333333334,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.25116666666666665,1,timing_only,True,near_degenerate,True,True,0.17517499999999991,0.17050519889061672,0.004669801109383198,0.037726824655182456,0.8145833333333334,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.25433333333333336,1,timing_only,True,near_degenerate,True,True,0.17517499999999991,0.17050519889061672,0.004669801109383198,0.037726824655182456,0.8145833333333334,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.2575,1,timing_only,False,timing,True,True,0.20020000000000027,0.17050519889061672,0.02969480110938355,0.036238983183884764,0.8145833333333334,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.26066666666666666,1,timing_only,False,timing,True,True,0.20020000000000027,0.17050519889061672,0.02969480110938355,0.036238983183884764,0.8145833333333334,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.2638333333333333,1,timing_only,False,timing,True,True,0.20020000000000027,0.17050519889061672,0.02969480110938355,0.036238983183884764,0.8145833333333334,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.267,1,timing_only,True,near_degenerate,True,True,0.20020000000000027,0.19861810776075833,0.0015818922392419332,0.036238983183884764,0.7875000000000001,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.27016666666666667,1,timing_only,False,timing,True,True,0.22522499999999981,0.19861810776075833,0.02660689223924148,0.03480981805929654,0.7875000000000001,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.2733333333333333,1,timing_only,False,timing,True,True,0.22522499999999981,0.19861810776075833,0.02660689223924148,0.03480981805929654,0.7875000000000001,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.2765,1,timing_only,False,timing,True,True,0.22522499999999981,0.19861810776075833,0.02660689223924148,0.03480981805929654,0.7875000000000001,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.2796666666666667,1,timing_only,False,timing,True,True,0.22522499999999981,0.19861810776075833,0.02660689223924148,0.03480981805929654,0.7875000000000001,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.2828333333333333,1,timing_only,False,timing,True,True,0.2502500000000001,0.22771497668774907,0.022535023312251018,0.033437015248821096,0.7604166666666667,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.28600000000000003,1,timing_only,False,timing,True,True,0.2502500000000001,0.22771497668774907,0.022535023312251018,0.033437015248821096,0.7604166666666667,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.2891666666666667,1,timing_only,False,timing,True,True,0.2502500000000001,0.22771497668774907,0.022535023312251018,0.033437015248821096,0.7604166666666667,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.29233333333333333,1,timing_only,False,timing,True,True,0.27527499999999994,0.22771497668774907,0.04756002331225087,0.03211835197889826,0.7604166666666667,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.2955,1,timing_only,False,timing,True,True,0.27527499999999994,0.22771497668774907,0.04756002331225087,0.03211835197889826,0.7604166666666667,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.2986666666666667,1,timing_only,False,timing,True,True,0.27527499999999994,0.22771497668774907,0.04756002331225087,0.03211835197889826,0.7604166666666667,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.3,1,timing_only,False,timing,True,True,0.27527499999999994,0.22771497668774907,0.04756002331225087,0.03211835197889826,0.7604166666666667,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.30183333333333334,1,timing_only,False,timing,True,True,0.3002999999999999,0.22771497668774907,0.07258502331225083,0.030851693136000485,0.7604166666666667,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.305,1,timing_only,False,timing,True,True,0.3002999999999999,0.2578671894552986,0.04243281054470133,0.030851693136000485,0.7333333333333334,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.3081666666666667,1,timing_only,False,timing,True,True,0.3002999999999999,0.2578671894552986,0.04243281054470133,0.030851693136000485,0.7333333333333334,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.31133333333333335,1,timing_only,False,timing,True,True,0.3002999999999999,0.2578671894552986,0.04243281054470133,0.030851693136000485,0.7333333333333334,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.3145,1,timing_only,False,timing,True,True,0.3253250000000003,0.2578671894552986,0.06745781054470174,0.029634987809564105,0.7333333333333334,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.31766666666666665,1,timing_only,False,timing,True,True,0.3253250000000003,0.2578671894552986,0.06745781054470174,0.029634987809564105,0.7333333333333334,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.32083333333333336,1,timing_only,False,timing,True,True,0.3253250000000003,0.2578671894552986,0.06745781054470174,0.029634987809564105,0.7333333333333334,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.324,1,timing_only,False,timing,True,True,0.35035000000000016,0.2578671894552986,0.09248281054470159,0.028466265971257645,0.7333333333333334,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.32716666666666666,1,timing_only,False,timing,True,True,0.35035000000000016,0.2891541912467999,0.06119580875320024,0.028466265971257645,0.70625,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.33033333333333337,1,timing_only,False,timing,True,True,0.35035000000000016,0.2891541912467999,0.06119580875320024,0.028466265971257645,0.70625,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.3335,1,timing_only,False,timing,True,True,0.375375,0.2891541912467999,0.0862208087532001,0.027343635285210527,0.70625,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.33666666666666667,1,timing_only,False,timing,True,True,0.375375,0.2891541912467999,0.0862208087532001,0.027343635285210527,0.70625,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.3398333333333333,1,timing_only,False,timing,True,True,0.375375,0.2891541912467999,0.0862208087532001,0.027343635285210527,0.70625,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.343,1,timing_only,False,timing,True,True,0.4004,0.2891541912467999,0.11124580875320006,0.026265278044037672,0.70625,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.3461666666666667,1,timing_only,False,timing,True,True,0.4004,0.2891541912467999,0.11124580875320006,0.026265278044037672,0.70625,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.34933333333333333,1,timing_only,False,timing,True,True,0.4004,0.3216647501224803,0.07873524987751968,0.026265278044037672,0.6791666666666667,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.35250000000000004,1,timing_only,False,timing,True,True,0.4254249999999999,0.3216647501224803,0.10376024987751958,0.025229448225698715,0.6791666666666667,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.3556666666666667,1,timing_only,False,timing,True,True,0.4254249999999999,0.3216647501224803,0.10376024987751958,0.025229448225698715,0.6791666666666667,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.35883333333333334,1,timing_only,False,timing,True,True,0.4254249999999999,0.3216647501224803,0.10376024987751958,0.025229448225698715,0.6791666666666667,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.362,1,timing_only,False,timing,True,True,0.4504500000000002,0.3216647501224803,0.12878524987751988,0.024234468666426527,0.6791666666666667,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.3651666666666667,1,timing_only,False,timing,True,True,0.4504500000000002,0.3216647501224803,0.12878524987751988,0.024234468666426527,0.6791666666666667,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.36833333333333335,1,timing_only,False,timing,True,True,0.4504500000000002,0.3216647501224803,0.12878524987751988,0.024234468666426527,0.6791666666666667,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.3715,1,timing_only,False,timing,True,True,0.47547500000000015,0.3216647501224803,0.15381024987751984,0.023278728345147718,0.6791666666666667,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.3746666666666667,1,timing_only,False,timing,True,True,0.47547500000000015,0.3216647501224803,0.15381024987751984,0.023278728345147718,0.6791666666666667,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.37783333333333335,1,timing_only,False,timing,True,True,0.47547500000000015,0.35549847532874623,0.11997652467125391,0.023278728345147718,0.6520833333333333,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.381,1,timing_only,False,timing,True,True,0.5005,0.35549847532874623,0.1450015246712537,0.022360679774997897,0.6520833333333333,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.38416666666666666,1,timing_only,False,timing,True,True,0.5005,0.35549847532874623,0.1450015246712537,0.022360679774997897,0.6520833333333333,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.38733333333333336,1,timing_only,False,timing,True,True,0.5005,0.35549847532874623,0.1450015246712537,0.022360679774997897,0.6520833333333333,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.3905,1,timing_only,False,timing,True,True,0.5255249999999999,0.35549847532874623,0.17002652467125368,0.021478836497708487,0.6520833333333333,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.39366666666666666,1,timing_only,False,timing,True,True,0.5255249999999999,0.35549847532874623,0.17002652467125368,0.021478836497708487,0.6520833333333333,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.3968333333333333,1,timing_only,False,timing,True,True,0.5255249999999999,0.35549847532874623,0.17002652467125368,0.021478836497708487,0.6520833333333333,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band
+0.4,1,timing_only,False,timing,True,True,0.55055,0.35549847532874623,0.19505152467125375,0.02063177067680795,0.6520833333333333,minimum normalized control effort; mechanism-side tie-break only inside explicit 5% degeneracy band

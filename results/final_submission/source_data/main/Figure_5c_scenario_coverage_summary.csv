@@ -1,0 +1,5 @@
+control_authority_ceiling,coverage_label,scenarios_covered,total_evaluated_scenarios,scenario_coverage_percent,interpretation
+0,Frozen sufficient,37,205,18.048780487804876,Discrete evaluated scenario coverage; not continuous operating-area fraction.
+1,At most one actuator,136,205,66.34146341463415,Discrete evaluated scenario coverage; not continuous operating-area fraction.
+2,At most two actuators,157,205,76.58536585365853,Discrete evaluated scenario coverage; not continuous operating-area fraction.
+3,Outside declared envelope,48,205,23.414634146341463,Discrete evaluated scenario coverage; not continuous operating-area fraction.

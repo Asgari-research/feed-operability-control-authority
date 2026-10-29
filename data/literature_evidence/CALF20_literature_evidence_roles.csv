@@ -1,0 +1,11 @@
+source_id,evidence_layer,parser_role,used_in_calibration,status
+NGUYEN2022_CEJ_CALF20,composition/equilibrium/breakthrough context,composition metadata + domain anchor,no (except thermodynamic reconstruction source domain),active
+NGUYEN2023_CEJ_VSA,nominal process experiment,process_anchor.csv purity/recovery,yes: nominal output anchor,active
+LISKE2026_CJCE_EBAAM,published DSL parameterization,equilibrium.csv deterministic reconstruction,thermodynamic fit input,active
+WILKINS2025_CHEMRXIV_PILOT,open pilot numerical SI + alternative DSL,external validation + external equilibrium sensitivity,no,active external validation
+WILKINS2026_CEJ_PILOT,peer-reviewed pilot publication record,provenance/citation only,no,active provenance
+WEI2022_RSCADV_CALF20_N2,independent scalar N2 check,external scalar crosscheck,no,active external validation
+CALDERON2025_INORGCHEM_CALF20,independent scalar CO2 check,external scalar crosscheck,no,active external validation
+DILIPKUMAR2025_LANGMUIR_CALF20,independent equilibrium/transport context,metadata only,no,context; no coordinates redistributed
+DILIPKUMAR2025_CES_MIXTURE,independent dry/wet mixture equilibrium/kinetics context,metadata only,no,context; no coordinates redistributed
+NGUYEN2024_IECR_HUMID,,wet-gas context only; not used in dry-composition calibration,,

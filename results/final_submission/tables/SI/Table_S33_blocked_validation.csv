@@ -1,0 +1,13 @@
+material,adsorbate,validation_type,held_out,n_train,n_test,success,rmse_mol_kg
+CALF-20,CO2,leave_one_temperature_out,303.15 K,95,19,True,0.002553581735746044
+CALF-20,CO2,leave_one_temperature_out,313.15 K,95,19,True,0.0003025388795602172
+CALF-20,CO2,leave_one_temperature_out,323.15 K,95,19,True,0.001030668125004628
+CALF-20,CO2,leave_one_temperature_out,333.15 K,95,19,True,0.0013219181954282914
+CALF-20,CO2,leave_one_temperature_out,353.15 K,95,19,True,0.0007475876225326901
+CALF-20,CO2,leave_one_temperature_out,373.15 K,95,19,True,0.0029009973786367385
+CALF-20,N2,leave_one_temperature_out,303.15 K,95,19,True,0.00044383732230443194
+CALF-20,N2,leave_one_temperature_out,313.15 K,95,19,True,8.216251576863069e-05
+CALF-20,N2,leave_one_temperature_out,323.15 K,95,19,True,0.0001623916079415796
+CALF-20,N2,leave_one_temperature_out,333.15 K,95,19,True,0.00016315139911811098
+CALF-20,N2,leave_one_temperature_out,353.15 K,95,19,True,2.649265681889894e-05
+CALF-20,N2,leave_one_temperature_out,373.15 K,95,19,True,0.0002506938818605601

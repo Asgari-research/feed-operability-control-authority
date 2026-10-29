@@ -1,0 +1,5 @@
+# Manuscript figure-numbering crosswalk
+
+The archived program retains some legacy source-data file IDs from earlier numerical releases. The **final manuscript SI contains Figures S1–S21**; this is an editorial renumbering, not new numerical evidence. `results/final_submission/figures/SI/` now contains only the final 21 vector PDFs. The exact one-to-one table is `results/final_submission/provenance/SI_FIGURE_RENUMBERING_MAP.csv`. Raw source-data CSV filenames may retain the earlier IDs; do not rename the content or infer a one-to-one numeric filename match without consulting this map. In particular, original S21→final S18 (control Jacobian), original S22→S19 (equipment), S23→S20 (quasi-steady), and S24→S21 (uncertainty hierarchy).
+
+The calculation equations and parameter values are unchanged by this editorial crosswalk. A future comprehensive rerun can produce its raw figures with legacy names; apply the mapping when comparing to the final compiled SI. Neither source-data IDs nor plot filenames are scientific claims by themselves.

@@ -1,0 +1,22 @@
+parameter,value,provenance_class,interpretation
+nominal_temperature_K,295.15,pipeline default,close to ~22°C experimental breakthrough context
+adsorption_pressure_bar,0.97,pipeline + Nguyen 2022,published breakthrough pressure
+nominal_feed_co2_fraction,0.15,pipeline + Nguyen 2022/2023,nominal dry flue gas
+feed_co2_range,0.02–0.40,pipeline default,perturbation envelope
+nominal_regeneration_pressure_bar,0.05,pipeline default,control reference; not asserted as exact 2023 VSA setting
+regeneration_pressure_floor_bar,0.01,pipeline default,control bound
+nominal_adsorption_time_s,120,pipeline default,control reference; not asserted as exact experimental timing
+fixed_nonfeed_cycle_time_s,180,pipeline default,reduced-order timing assumption
+nominal_purity_anchor,0.955,Nguyen 2023 CEJ,experimental LPP anchor
+nominal_recovery_anchor,0.881,Nguyen 2023 CEJ,experimental LPP anchor
+target_purity,0.95,study threshold,engineering target
+target_recovery,0.88,study threshold,engineering target
+vacuum_efficiency,0.60,pipeline default,sensitivity 0.45–0.75
+bed_void_fraction,0.38,pipeline default,generic reduced-order assumption
+adsorbent_bulk_density_kg_m3,650,pipeline default,sensitivity 500–800
+timing_scale_range,0.30–1.60,pipeline default,declared control-authority envelope
+primary_evidence_feed_range,0.05–0.30,Nguyen 2022 composition conditions,primary literature-anchored CO2 composition envelope; condition metadata do not imply digitized breakthrough traces
+published_composition_condition_anchors,0.05;0.15;0.30,Nguyen 2022 CEJ,published dry CO2/N2 breakthrough test conditions retained as metadata anchors only
+exploratory_feed_range,0.02–0.40,study design,numerical stress-test envelope outside 5–30% primary evidence range
+class3_role,diagnostic_only,study design,extended-envelope Class 3 is not allowed to enlarge headline normal-operability windows
+boundary_censoring_rule,edges at 0.02 or 0.40 are domain-censored,analysis rule,a numerical domain limit is not reported as a resolved physical intervention boundary

@@ -1,0 +1,8 @@
+criterion,threshold,unit,required_for_gate,notes
+component_mass_closure_rel_max,0.005,fraction,True,<0.5% per-cycle closure
+css_purity_change,0.001,fraction,True,<0.1 percentage point over final consecutive cycles
+css_recovery_change,0.001,fraction,True,<0.1 percentage point over final consecutive cycles
+mesh_purity_or_recovery_span,0.002,fraction,True,<0.2 percentage point across validation meshes
+tolerance_purity_or_recovery_span,0.002,fraction,True,<0.2 percentage point across solver tolerances
+published_validation_abs_purity_error,0.05,fraction,True,predeclared broad gate; exact experimental uncertainty also retained
+published_validation_abs_recovery_error,0.08,fraction,True,predeclared broad gate; exact experimental uncertainty also retained

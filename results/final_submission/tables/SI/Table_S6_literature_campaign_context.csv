@@ -1,0 +1,12 @@
+source_id,evidence_type,quantity,value,unit,role,doi,provenance,use_in_model,context_item,notes
+NGUYEN2022_CEJ_CALF20,breakthrough_condition,feed_CO2_fraction,0.05;0.15;0.30,mole fraction,primary composition-support envelope,10.1016/j.cej.2022.136263,publisher article Fig. 5 / SI condition reference,metadata only; no pseudo-traces,,
+NGUYEN2022_CEJ_CALF20,breakthrough_condition,total_pressure,0.97,bar,experimental context,10.1016/j.cej.2022.136263,publisher article text,adsorption-pressure anchor,,
+NGUYEN2023_CEJ_VSA,VSA_experimental_anchor,LPP purity / recovery,0.955 / 0.881,fraction / fraction,nominal process-output anchor,10.1016/j.cej.2022.139550,publisher abstract/highlights,calibration output anchor,,
+NGUYEN2023_CEJ_VSA,VSA_experimental_context,adsorbent mass,70,g CALF-20,apparatus-scale context,10.1016/j.cej.2022.139550,publisher highlights,context only; no mass-dependent calculation,,
+WILKINS2026_CEJ_PILOT,pilot_campaign,experiment counts,75 total; 61 laminate; 14 packed,count,external pilot validation,10.1016/j.cej.2026.174238,peer-reviewed abstract/highlights,external only,,
+WILKINS2026_CEJ_PILOT,pilot_campaign,feed_CO2_fraction,0.08;0.12;0.16,mole fraction,external pilot composition evidence,10.1016/j.cej.2026.174238,peer-reviewed abstract,external only,,
+WILKINS2026_CEJ_PILOT,pilot_campaign,laminate cycle time range,64–107,s,external process context,10.1016/j.cej.2026.174238,peer-reviewed abstract,context only,,
+WILKINS2026_CEJ_PILOT,pilot_campaign,best laminate purity/recovery by feed,8%: 95.2%/54.9%; 12%: 94.6%/65.9%; 16%: 94.9%/72.8%,purity / recovery,external directional validation,10.1016/j.cej.2026.174238,peer-reviewed abstract,external only; not matched-boundary validation,,
+WILKINS2026_CEJ_PILOT,,,100–130,kPa abs,external process context,,,,pilot high-pressure range,Peer-reviewed 2026 pilot article; not used for nominal calibration.
+WILKINS2026_CEJ_PILOT,,,0.532,tpd m-3 adsorbent,secondary process context,,,,previous Nguyen LPP productivity,Reported in the 2026 peer-reviewed pilot article when summarizing the 2023 CALF-20 VSA study; not used for calibration because basis/contact-volume conventions and reported adsorbent mass differ across publications.
+WILKINS2026_CEJ_PILOT,,,2.40,tpd m-3 adsorbent,secondary process context,,,,previous Nguyen basic-cycle productivity,Reported in the 2026 peer-reviewed pilot article; context only.

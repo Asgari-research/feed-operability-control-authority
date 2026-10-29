@@ -1,0 +1,14 @@
+parameter,value,unit,source_id,evidence_role,notes
+length_m,0.26,m,WILKINS2026_CEJ_PILOT,secondary_same_platform,Values not directly measured for the exact 2023 headline point remain labelled model priors; none are promoted to primary experimental facts.
+diameter_m,0.021,m,WILKINS2026_CEJ_PILOT,secondary_same_platform,Values not directly measured for the exact 2023 headline point remain labelled model priors; none are promoted to primary experimental facts.
+adsorbent_mass_kg,0.036,kg,WILKINS2026_CEJ_PILOT,secondary_same_platform,Values not directly measured for the exact 2023 headline point remain labelled model priors; none are promoted to primary experimental facts.
+particle_equivalent_diameter_m,0.0014,m,WILKINS2026_CEJ_PILOT,secondary_same_platform,Values not directly measured for the exact 2023 headline point remain labelled model priors; none are promoted to primary experimental facts.
+bed_void_fraction,0.38,fraction,P10_ENGINEERING_ASSUMPTION,explicit_model_prior,Values not directly measured for the exact 2023 headline point remain labelled model priors; none are promoted to primary experimental facts.
+solid_heat_capacity_J_kg_K,900.0,J kg-1 K-1,P10_ENGINEERING_ASSUMPTION,explicit_model_prior,Values not directly measured for the exact 2023 headline point remain labelled model priors; none are promoted to primary experimental facts.
+effective_axial_conductivity_W_m_K,0.15,W m-1 K-1,P10_ENGINEERING_ASSUMPTION,explicit_model_prior,Values not directly measured for the exact 2023 headline point remain labelled model priors; none are promoted to primary experimental facts.
+wall_heat_transfer_W_m2_K,8.0,W m-2 K-1,P10_CSS_CALIBRATION_PRIOR,bounded_model_prior,Values not directly measured for the exact 2023 headline point remain labelled model priors; none are promoted to primary experimental facts.
+heat_ads_CO2_J_mol,28000.0,J mol-1,P10_ENGINEERING_ASSUMPTION,explicit_model_prior,Values not directly measured for the exact 2023 headline point remain labelled model priors; none are promoted to primary experimental facts.
+heat_ads_N2_J_mol,16000.0,J mol-1,P10_ENGINEERING_ASSUMPTION,explicit_model_prior,Values not directly measured for the exact 2023 headline point remain labelled model priors; none are promoted to primary experimental facts.
+D_over_R2_CO2_s_inv,0.0436,s-1,TANG2025_IECR_ZLC,independent_transport_evidence,Values not directly measured for the exact 2023 headline point remain labelled model priors; none are promoted to primary experimental facts.
+k_LDF_CO2_s,0.654,s-1,TANG2025_IECR_ZLC,derived_spherical_LDF_mapping,Values not directly measured for the exact 2023 headline point remain labelled model priors; none are promoted to primary experimental facts.
+k_LDF_N2_s,0.8197206399790266,s-1,PHYSICS_DERIVED_KNUDSEN_SCALE,derived_sensitivity_prior,Values not directly measured for the exact 2023 headline point remain labelled model priors; none are promoted to primary experimental facts.

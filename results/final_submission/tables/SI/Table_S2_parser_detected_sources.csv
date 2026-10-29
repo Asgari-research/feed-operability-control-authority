@@ -1,0 +1,4 @@
+source_id,material,material_form,doi,data_role,gases,temperature_min_K,temperature_max_K,pressure_min_bar,pressure_max_bar,n_rows
+LISKE2026_CJCE_EBAAM_RECONSTRUCTION,CALF-20,published_CALF20_parameterization_rho_s_570kg_m3,10.1002/cjce.70453,unary_equilibrium,CO2; N2,303.15,373.15,0.003,5.0,228
+NGUYEN2022_CEJ_CALF20,CALF-20,see provenance,10.1016/j.cej.2022.136263,published_composition_condition_anchor_no_trace,CO2; N2,295.15,295.15,0.97,0.97,3
+NGUYEN2023_CEJ_VSA_LPP,CALF-20,structured/process sample,10.1016/j.cej.2022.139550,nominal_process_anchor,CO2; N2,,,,,1

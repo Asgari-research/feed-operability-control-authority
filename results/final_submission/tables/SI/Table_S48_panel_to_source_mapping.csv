@@ -1,0 +1,6 @@
+figure,panel,content,source_dataset
+Figure 1,A-D,"composition evidence, unary equilibrium and independent pilot validation",harmonized adsorption + composition anchors + external pilot PVSA
+Figure 2,A-D,intrinsic composition response,intrinsic_composition_response
+Figure 3,A-D,frozen-process reduced-order estimates,fixed_process_offdesign
+Figure 4,A-D,minimum operating intervention,minimum_intervention_selected
+Figure 5,A-D,nested feed-composition robustness boundaries and uncertainty,nested_intervention_windows + uncertainty classification

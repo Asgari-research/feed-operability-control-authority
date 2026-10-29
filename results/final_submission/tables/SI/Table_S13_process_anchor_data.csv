@@ -1,0 +1,2 @@
+feed_co2_fraction,purity,recovery,productivity,specific_energy,regeneration_pressure_bar,adsorption_time_s,source_file,source_table,source_id,doi
+0.15,0.955,0.881,,,,,process_anchor.csv,data,NGUYEN2023_CEJ_VSA_LPP,10.1016/j.cej.2022.139550

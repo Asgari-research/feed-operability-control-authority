@@ -1,0 +1,4 @@
+parameter,value,unit,evidence_role,basis
+minimum regeneration pressure,0.02,bar,declared engineering screening assumption,User-configurable lower vacuum-pressure bound; not presented as a measured hardware limit.
+minimum timing scale,0.5,dimensionless,declared engineering screening assumption,Lower operating envelope used for realizability screening.
+maximum timing scale,1.5,dimensionless,declared engineering screening assumption,Upper operating envelope used for realizability screening.

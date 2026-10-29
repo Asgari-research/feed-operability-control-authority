@@ -1,0 +1,2 @@
+publication_source_id,publication_doi,journal,year,article_number,data_source_id,data_source_doi,data_license,n_total,n_laminate,n_packed,feed_co2_fractions,note
+WILKINS2026_CEJ_PILOT,10.1016/j.cej.2026.174238,Chemical Engineering Journal,2026,174238,WILKINS2025_CHEMRXIV_PILOT,10.26434/chemrxiv-2025-zz73j,CC BY 4.0,75,61,14,0.08;0.12;0.16,"Peer-reviewed publication record linked to the redistributed numerical table. Numerical rows are sourced from the openly licensed ChemRxiv SI, not scraped from the publisher article."

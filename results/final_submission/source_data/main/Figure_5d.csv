@@ -1,0 +1,7 @@
+boundary,median_feed_co2_fraction,q025,q975,n_valid_draws,valid_draw_fraction,minimum_valid_draws_for_resolved_boundary,median_composition_support,ci_entirely_inside_primary_evidence_envelope,boundary_status,boundary_resolved,boundary_method,boundary_tolerance_percentage_points
+frozen_safe_lower,0.14191666666666666,0.14152083333333332,0.14191666666666666,2000,1.0,1000,between_published_composition_conditions,True,interior_adaptive_uncertainty_boundary,True,draw-wise adaptive bisection,0.05
+frozen_safe_upper,0.15075,0.15075,0.15075,2000,1.0,1000,published_composition_condition_anchor_no_trace,True,interior_adaptive_uncertainty_boundary,True,draw-wise adaptive bisection,0.05
+single_knob_lower,0.13399999999999998,0.13360416666666663,0.13439583333333333,2000,1.0,1000,between_published_composition_conditions,True,interior_adaptive_uncertainty_boundary,True,draw-wise adaptive bisection,0.05
+single_knob_upper,0.4,0.4,0.4,2000,1.0,1000,exploratory_numerical_envelope,False,mixed_or_right_censored,False,draw-wise adaptive bisection,0.05
+coordinated_lower,0.10589583333333333,0.10470833333333332,0.10708333333333334,2000,1.0,1000,between_published_composition_conditions,True,interior_adaptive_uncertainty_boundary,True,draw-wise adaptive bisection,0.05
+coordinated_upper,0.4,0.4,0.4,2000,1.0,1000,exploratory_numerical_envelope,False,mixed_or_right_censored,False,draw-wise adaptive bisection,0.05

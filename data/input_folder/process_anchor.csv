@@ -1,0 +1,2 @@
+source_id,feed_co2_fraction,purity,recovery,productivity,specific_energy,regeneration_pressure_bar,adsorption_time_s,doi,notes
+NGUYEN2023_CEJ_VSA_LPP,0.15,0.955,0.881,,,,,10.1016/j.cej.2022.139550,Primary 2023 four-step LPP headline result for dry 15/85 CO2/N2. Exact point-specific pressure/time/productivity fields remain blank because they were not verified in accessible primary text; secondary same-platform values are stored separately and are not silently substituted.

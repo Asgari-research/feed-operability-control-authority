@@ -1,0 +1,7 @@
+specification,specification_role,control_authority,lean_boundary_feed_co2_percent,rich_boundary_feed_co2_percent,equipment_realizable_lean_boundary_percent,lower_boundary_status,upper_boundary_status
+95% purity / 88% recovery,experiment-anchored,Frozen,14.191666666666666,15.075,14.191666666666666,interior_adaptive_transition,interior_adaptive_transition
+95% purity / 88% recovery,experiment-anchored,≤1 actuator,13.399999999999999,40.0,13.399999999999999,interior_adaptive_transition,right_censored_by_feed_domain_limit
+95% purity / 88% recovery,experiment-anchored,≤2 actuators,10.589583333333334,40.0,10.945833333333335,interior_adaptive_transition,right_censored_by_feed_domain_limit
+95% purity / 90% recovery,conventional benchmark,Frozen,,,,nominal_not_eligible,nominal_not_eligible
+95% purity / 90% recovery,conventional benchmark,≤1 actuator,13.399999999999999,40.0,13.399999999999999,interior_adaptive_transition,right_censored_by_feed_domain_limit
+95% purity / 90% recovery,conventional benchmark,≤2 actuators,10.589583333333334,40.0,10.945833333333335,interior_adaptive_transition,right_censored_by_feed_domain_limit

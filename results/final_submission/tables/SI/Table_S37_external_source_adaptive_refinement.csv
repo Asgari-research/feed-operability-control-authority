@@ -1,0 +1,7 @@
+intervention_ceiling,max_adaptation_level,side,coarse_bracket_a,coarse_bracket_b,refined_boundary_feed_co2_fraction,final_bracket_width_fraction,iterations,status,tolerance_fraction,tolerance_percentage_points,source_file
+frozen_safe,0,lower,0.14033333333333334,0.1435,0.14152083333333332,0.0003958333333333175,3,interior_adaptive_transition,0.0005,0.05,CALF20_BASF_pilot_DSL_reconstruction.csv
+frozen_safe,0,upper,0.14983333333333332,0.153,0.15062499999999998,0.00039583333333334525,3,interior_adaptive_transition,0.0005,0.05,CALF20_BASF_pilot_DSL_reconstruction.csv
+single_knob_or_less,1,lower,0.13083333333333333,0.13399999999999998,0.13360416666666663,0.0003958333333333175,3,interior_adaptive_transition,0.0005,0.05,CALF20_BASF_pilot_DSL_reconstruction.csv
+single_knob_or_less,1,upper,0.4,0.4,0.4,,0,right_censored_by_feed_domain_limit,0.0005,0.05,CALF20_BASF_pilot_DSL_reconstruction.csv
+coordinated_two_knob_or_less,2,lower,0.10233333333333333,0.1055,0.10470833333333332,0.00039583333333333137,3,interior_adaptive_transition,0.0005,0.05,CALF20_BASF_pilot_DSL_reconstruction.csv
+coordinated_two_knob_or_less,2,upper,0.4,0.4,0.4,,0,right_censored_by_feed_domain_limit,0.0005,0.05,CALF20_BASF_pilot_DSL_reconstruction.csv

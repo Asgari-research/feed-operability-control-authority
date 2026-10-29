@@ -1,0 +1,10 @@
+claim_id,claim,status,evidence,figure
+C1,"The feed-composition locations and incremental gains of the zero-, one- and two-actuator operability transitions are quantified under explicit purity/recovery specifications.",SUPPORTED_AT_DECLARED_FIDELITY,Reduced-order baseline + adaptive boundary refinement,Figure 5A
+C2,The same qualitative hierarchy remains meaningful under the 95/90 co-primary specification.,SUPPORTED_AT_DECLARED_FIDELITY,Independent reduced-order recalculation,Figure 5B
+C3,Lean frozen failure is purity-limited and richer frozen operation becomes recovery-limited.,SUPPORTED_AT_DECLARED_FIDELITY,Frozen constraint margins,Figures 2B and 3
+C4,Pressure and timing are often locally near-collinear; the second actuator expands the nonlinear/global feasible envelope rather than simply supplying an orthogonal local direction.,SUPPORTED_AT_DECLARED_FIDELITY,Jacobian/SVD + nested global authority,Figure 2C-D; Figure S21
+C5,Required control authority changes jointly with composition and throughput; reported percentages are discrete evaluated-scenario coverage.,SUPPORTED_AT_DECLARED_FIDELITY,Composition x feed-flow map + scenario counts,Figure 5C
+C6,Minimum-authority adaptation recovers specification over the 15→12→18→15% quasi-steady sequence with less actuator movement than energy-minimizing grid re-optimization when the calculated metric supports that comparison.,SUPPORTED_AT_DECLARED_FIDELITY,Deduplicated three-policy disturbance test + control-effort summary,Figure 5D; Figure S23
+C7,Parameter/source uncertainty is smaller than declared front/kinetic sensitivity for the key lean boundaries.,SUPPORTED_AS_SENSITIVITY_HIERARCHY,Layered uncertainty register; front-factor range is non-probabilistic,Figure 5A; Figure S24
+C8,Published composition-resolved breakthrough traces quantitatively validate the kinetic/front model.,OPEN_TRACE_LEVEL,Trace coordinates required; verified conditions alone are insufficient,
+C9,Non-isothermal CSS independently supports the nested topology and transient response.,OPEN_HIGH_FIDELITY,Same-rig CSS validation + targeted falsification required,Repository-only CSS status; not a journal figure

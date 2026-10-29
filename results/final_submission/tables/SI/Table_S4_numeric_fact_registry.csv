@@ -1,0 +1,57 @@
+fact_id,source_id,quantity,value,unit,use
+F001,NGUYEN2022_CEJ_CALF20,pure-component pressure range,0–5,bar,domain audit
+F002,NGUYEN2022_CEJ_CALF20,pure-component temperatures,303.15;313.15;323.15;333.15;353.15;373.15,K,thermal support
+F003,NGUYEN2022_CEJ_CALF20,binary breakthrough temperature,~295.15,K,P10 nominal context
+F004,NGUYEN2022_CEJ_CALF20,binary breakthrough total pressure,0.97,bar,P10 pressure anchor
+F005,NGUYEN2022_CEJ_CALF20,binary breakthrough CO2 fractions,0.05;0.15;0.30,mole fraction,composition-support metadata
+F006,NGUYEN2022_CEJ_CALF20,structured particle density,570,kg/m3,sample metadata
+F007,NGUYEN2022_CEJ_CALF20,structured particle size,1–3,mm,sample metadata
+F008,NGUYEN2023_CEJ_VSA,LPP purity,0.955,fraction,P10 nominal anchor
+F009,NGUYEN2023_CEJ_VSA,LPP recovery,0.881,fraction,P10 nominal anchor
+F010,WILKINS2025_CHEMRXIV_PILOT,PVSA experiments,75,count,external validation
+F011,WILKINS2025_CHEMRXIV_PILOT,laminate experiments,61,count,external validation
+F012,WILKINS2025_CHEMRXIV_PILOT,packed experiments,14,count,external validation
+F013,WILKINS2025_CHEMRXIV_PILOT,pilot feed fractions,0.08;0.12;0.16,mole fraction,external validation
+F014,WEI2022_RSCADV_CALF20_N2,"N2 uptake at 298 K, 0.1 bar",0.033,mol/kg,independent N2 cross-check
+F015,WEI2022_RSCADV_CALF20_N2,"N2 uptake at 298 K, 1 bar",~0.29,mol/kg,independent N2 cross-check
+F016,WEI2022_RSCADV_CALF20_N2,N2 initial isosteric heat,~16.9,kJ/mol,independent heat cross-check
+F017,WEI2022_RSCADV_CALF20_N2,N2 Henry constant,~0.35,mol kg-1 bar-1,independent low-pressure cross-check
+F018,CALDERON2025_INORGCHEM_CALF20,"CALF-20-SOL CO2 uptake at 298 K, 1 bar",3.38,mol/kg,independent CO2 batch cross-check
+F019,CALDERON2025_INORGCHEM_CALF20,CALF-20-SOL zero-loading CO2 Qst,39.09,kJ/mol,independent heat cross-check
+F020,WILKINS2026_CEJ_PILOT,peer-reviewed pilot experiment count,75,count,external validation publication audit
+F021,WILKINS2026_CEJ_PILOT,peer-reviewed laminate experiment count,61,count,external validation publication audit
+F022,WILKINS2026_CEJ_PILOT,peer-reviewed packed-bed experiment count,14,count,external validation publication audit
+F023,WILKINS2026_CEJ_PILOT,peer-reviewed pilot feed CO2 fractions,0.08;0.12;0.16,mole fraction,external validation composition support
+F024,DILIPKUMAR2025_LANGMUIR_CALF20,single-component study temperature range,25-150,degC,independent thermodynamic/transport context
+F025,DILIPKUMAR2025_LANGMUIR_CALF20,single-component study maximum pressure,1,bar,independent thermodynamic/transport context
+F026,DILIPKUMAR2025_LANGMUIR_CALF20,relative humidity range,0-95,percent,wet-gas context only
+F027,DILIPKUMAR2025_CES_MIXTURE,mixture study temperature range,25-150,degC,binary/ternary mixture context
+F028,DILIPKUMAR2025_CES_MIXTURE,mixture relative humidity range,0-90,percent,wet-mixture context only
+F029,CALDERON2025_INORGCHEM_CALF20,"CALF-20-SOL CO2 uptake at 273 K, 1 bar",4.65,mol/kg,independent CO2 batch cross-check; external temperature extrapolation
+F030,NGUYEN2023_CEJ_VSA,experimental VSA adsorbent mass,70,g,apparatus context only
+F031,WILKINS2026_CEJ_PILOT,laminate cycle time range,64–107,s,external process context
+F032,WILKINS2026_CEJ_PILOT,best laminate results by feed,8%:95.2/54.9;12%:94.6/65.9;16%:94.9/72.8,purity%/recovery%,external directional validation
+F033,WILKINS2026_CEJ_PILOT,pilot high-pressure operating range,100–130,kPa abs,external process context
+F034,WILKINS2026_CEJ_PILOT,reported previous Nguyen LPP productivity,0.532,tpd m-3 adsorbent,secondary process context only; not calibration
+F035,WILKINS2026_CEJ_PILOT,reported previous Nguyen basic-cycle productivity,2.40,tpd m-3 adsorbent,secondary process context only; not calibration
+F036,NGUYEN2022_CHEMRXIV_VSA_PREPRINT,supporting-information experiment series,Experiments I–IX,identifier range,dynamic-validation provenance locator only
+F037,NGUYEN2023_CEJ_VSA,LPP experimental purity,0.955,fraction,nominal process output anchor
+F038,NGUYEN2023_CEJ_VSA,LPP experimental recovery,0.881,fraction,nominal process output anchor
+F039,NGUYEN2023_CEJ_VSA,two-column CALF-20 mass context,0.07,kg,primary experiment context
+F040,WILKINS2026_CEJ_PILOT,packed-column adsorbent mass per column,0.036,kg,secondary same-platform geometry cross-check
+F041,WILKINS2026_CEJ_PILOT,packed-column length,0.26,m,CSS geometry prior
+F042,WILKINS2026_CEJ_PILOT,packed-column diameter,0.021,m,CSS geometry prior
+F043,WILKINS2026_CEJ_PILOT,2023 LPP productivity cross-check,0.532,t CO2 d-1 m-3 adsorbent,secondary same-experiment cross-check
+F044,NGUYEN2025_ADSORPTION_HUMID_VSA,Dry A0 t_ads,180.0,s,CSS validation target
+F045,NGUYEN2025_ADSORPTION_HUMID_VSA,Dry A0 PI,0.119,bar,CSS validation target
+F046,NGUYEN2025_ADSORPTION_HUMID_VSA,Dry A0 PL,0.032,bar,CSS validation target
+F047,NGUYEN2025_ADSORPTION_HUMID_VSA,Dry A0 v_feed,0.081,m s-1,CSS validation target
+F048,NGUYEN2025_ADSORPTION_HUMID_VSA,Dry A0 purity,0.983,fraction,CSS validation target
+F049,NGUYEN2025_ADSORPTION_HUMID_VSA,Dry A0 recovery,0.712,fraction,CSS validation target
+F050,NGUYEN2025_ADSORPTION_HUMID_VSA,Dry B0 t_ads,157.0,s,CSS validation target
+F051,NGUYEN2025_ADSORPTION_HUMID_VSA,Dry B0 PI,0.046,bar,CSS validation target
+F052,NGUYEN2025_ADSORPTION_HUMID_VSA,Dry B0 PL,0.031,bar,CSS validation target
+F053,NGUYEN2025_ADSORPTION_HUMID_VSA,Dry B0 v_feed,0.024,m s-1,CSS validation target
+F054,NGUYEN2025_ADSORPTION_HUMID_VSA,Dry B0 purity,0.924,fraction,CSS validation target
+F055,NGUYEN2025_ADSORPTION_HUMID_VSA,Dry B0 recovery,0.833,fraction,CSS validation target
+F056,TANG2025_IECR_ZLC,CO2 D/R^2 at 0.1 bar 311 K,0.0436,s-1,CSS mass-transfer prior context

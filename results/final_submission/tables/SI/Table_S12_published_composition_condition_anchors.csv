@@ -1,0 +1,4 @@
+feed_co2_fraction,source_id,evidence_status,source_location,doi,temperature_K,total_pressure_bar,source_file,source_table
+0.05,NGUYEN2022_CEJ_CALF20,published but exact machine-readable coordinates not recovered,main article Fig. 5; conditions referenced to SI Table S1,10.1016/j.cej.2022.136263,295.15,0.97,composition_anchor_metadata.csv,data
+0.15,NGUYEN2022_CEJ_CALF20,published but exact machine-readable coordinates not recovered,main article Fig. 5; conditions referenced to SI Table S1,10.1016/j.cej.2022.136263,295.15,0.97,composition_anchor_metadata.csv,data
+0.3,NGUYEN2022_CEJ_CALF20,published but exact machine-readable coordinates not recovered,main article Fig. 5; conditions referenced to SI Table S1,10.1016/j.cej.2022.136263,295.15,0.97,composition_anchor_metadata.csv,data

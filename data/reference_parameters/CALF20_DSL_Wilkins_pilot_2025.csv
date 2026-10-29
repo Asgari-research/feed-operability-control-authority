@@ -1,0 +1,5 @@
+source_id,material,species,site,q_sat_mol_kg,b0_m3_mol,minus_deltaU_J_mol,measurement_T_min_K,measurement_T_max_K,measurement_P_max_bar
+WILKINS2025_CHEMRXIV_PILOT,BASF CALF-20 base powder,CO2,b,3.31,3.72e-07,35717,313.15,383.15,1.2
+WILKINS2025_CHEMRXIV_PILOT,BASF CALF-20 base powder,CO2,d,2.9,4.29e-08,28000,313.15,383.15,1.2
+WILKINS2025_CHEMRXIV_PILOT,BASF CALF-20 base powder,N2,b,3.31,5.73e-07,19326,313.15,383.15,1.2
+WILKINS2025_CHEMRXIV_PILOT,BASF CALF-20 base powder,N2,d,2.9,5.73e-07,19326,313.15,383.15,1.2

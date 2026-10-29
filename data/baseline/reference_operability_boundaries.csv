@@ -1,0 +1,5 @@
+metric,value_fraction,value_percent,boundary_status,role,tolerance_percentage_points,source
+frozen_lower,0.14190,14.190,interior_adaptive_transition,reference reduced-order baseline,0.10,completed reduced-order baseline
+frozen_upper,0.15075,15.075,interior_adaptive_transition,reference reduced-order baseline,0.10,completed reduced-order baseline
+one_actuator_lower,0.13400,13.400,interior_adaptive_transition,reference reduced-order baseline,0.10,completed reduced-order baseline
+two_actuator_lower,0.10590,10.590,interior_adaptive_transition,reference reduced-order baseline,0.10,completed reduced-order baseline

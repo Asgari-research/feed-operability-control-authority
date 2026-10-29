@@ -1,0 +1,7 @@
+parameter,default_value,unit,status,rationale
+minimum_regeneration_pressure,0.020,bar,declared_engineering_assumption,"More conservative than baseline mathematical floor; user-overridable."
+minimum_timing_scale,0.50,dimensionless,declared_engineering_assumption,"Practical screening envelope; user-overridable."
+maximum_timing_scale,1.50,dimensionless,declared_engineering_assumption,"Practical screening envelope; user-overridable."
+minimum_vacuum_efficiency,0.45,dimensionless,sensitivity_bound,"Inherited baseline engineering sensitivity range."
+nominal_vacuum_efficiency,0.60,dimensionless,declared_engineering_assumption,"Inherited baseline nominal value."
+maximum_vacuum_efficiency,0.75,dimensionless,sensitivity_bound,"Inherited baseline engineering sensitivity range."

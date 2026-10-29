@@ -1,0 +1,7 @@
+Specification,Control authority,Lean boundary (feed CO2),Rich boundary (feed CO2),Equipment-realizable lean boundary,Evidence basis
+95% purity / 88% recovery,Frozen,14.19%,15.07%,14.19%,Reduced-order adaptive boundary refinement
+95% purity / 88% recovery,≤1 actuator,13.40%,>40% (search-domain limit),13.40%,Reduced-order adaptive boundary refinement
+95% purity / 88% recovery,≤2 actuators,10.59%,>40% (search-domain limit),10.95%,Reduced-order adaptive boundary refinement
+95% purity / 90% recovery,Frozen,No feasible interval,—,—,Reduced-order adaptive boundary refinement
+95% purity / 90% recovery,≤1 actuator,13.40%,>40% (search-domain limit),13.40%,Reduced-order adaptive boundary refinement
+95% purity / 90% recovery,≤2 actuators,10.59%,>40% (search-domain limit),10.95%,Reduced-order adaptive boundary refinement

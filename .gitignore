@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.DS_Store
+Thumbs.db
+runs/
+quickcheck_results/
+*.tmp
+*.log
+*.aux
+*.synctex.gz

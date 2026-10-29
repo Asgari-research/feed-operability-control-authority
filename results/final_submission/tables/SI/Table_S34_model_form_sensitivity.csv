@@ -1,0 +1,4 @@
+co2_model,n2_model,aicc_weight_co2,aicc_weight_n2,joint_model_weight,feed_co2_fraction,purity_estimate,recovery_estimate,specific_vacuum_work_kJ_mol_CO2
+dual_site_langmuir,toth,1.0,1.0,1.0,0.05,0.0,0.0,
+dual_site_langmuir,toth,1.0,1.0,1.0,0.15,0.955,0.881,12.699512313510864
+dual_site_langmuir,toth,1.0,1.0,1.0,0.3,0.9872743034663083,0.6726771353753955,12.284361313589843

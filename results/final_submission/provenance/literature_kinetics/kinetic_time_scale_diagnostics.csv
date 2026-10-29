@@ -1,0 +1,5 @@
+diagnostic,value,unit,interpretation
+diffusion_time_scale_1_over_D_R2,22.93577981651376,s,independent ZLC scalar; different state point
+simple_first_order_fraction_over_nominal_adsorption_time,0.9946571710480293,fraction,diagnostic only; not a full packed-bed front model
+spherical_LDF_rate_15D_R2,0.654,s^-1,ideal spherical LDF mapping used only as transport-scale context
+spherical_LDF_fraction_over_nominal_adsorption_time,1.0,fraction,diagnostic only

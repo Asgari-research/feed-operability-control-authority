@@ -1,0 +1,8 @@
+source_id,evidence_level,quantity,value,unit,use,doi,notes
+WILKINS2026_CEJ_PILOT,secondary_peer_reviewed_same_platform,packed_column_length,0.26,m,CSS geometry prior,10.1016/j.cej.2026.174238,Description of earlier Nguyen packed-bed platform.
+WILKINS2026_CEJ_PILOT,secondary_peer_reviewed_same_platform,packed_column_diameter,0.021,m,CSS geometry prior,10.1016/j.cej.2026.174238,Description of earlier Nguyen packed-bed platform.
+WILKINS2026_CEJ_PILOT,secondary_peer_reviewed_same_platform,CALF20_mass_per_column,0.036,kg,CSS geometry prior,10.1016/j.cej.2026.174238,36 g per column is consistent with approximately 70 g total reported for the two-column 2023 LPP experiment.
+WILKINS2026_CEJ_PILOT,secondary_peer_reviewed_same_platform,extrudate_equivalent_spherical_diameter,0.0014,m,CSS transport geometry prior,10.1016/j.cej.2026.174238,Cylinders 1-3 mm long and ~1 mm diameter; reported approximate spherical diameter 1.4 mm.
+WILKINS2026_CEJ_PILOT,secondary_peer_reviewed_same_experiment,LPP_productivity,0.532,t_CO2_d-1_m-3_adsorbent,external cross-check only,10.1016/j.cej.2026.174238,Later peer-reviewed description attributes this productivity to the 2023 LPP experiment; not substituted into primary process_anchor.csv.
+HENROTIN2024_CCST_REVIEW,secondary_peer_reviewed_review,campaign_low_pressure,0.031,bar,campaign context only,10.1016/j.ccst.2024.100224,Review table campaign-level value; not verified as the exact 95.5/88.1 LPP point.
+HENROTIN2024_CCST_REVIEW,secondary_peer_reviewed_review,campaign_feed_flow_range,0.05-0.11,Nm3 h-1,campaign context only,10.1016/j.ccst.2024.100224,Not used as a point-specific nominal setting.

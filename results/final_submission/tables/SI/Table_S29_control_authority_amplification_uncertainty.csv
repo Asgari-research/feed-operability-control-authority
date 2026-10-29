@@ -1,0 +1,3 @@
+metric,median,q025,q975,n_valid_draws,uncertainty_method
+single_authority_amplification,1.9336609336609345,1.8869778869778864,1.9793814432989714,2000,directly derived within each Monte Carlo draw
+coordinated_authority_amplification,5.358247422680413,5.201474201474196,5.45618556701031,2000,directly derived within each Monte Carlo draw

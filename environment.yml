@@ -1,0 +1,12 @@
+name: p10_feed_atlas
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy>=1.24
+  - pandas>=2.0
+  - scipy>=1.10
+  - matplotlib>=3.7
+  - joblib>=1.3
+  - openpyxl>=3.1
+  - pyarrow>=14.0

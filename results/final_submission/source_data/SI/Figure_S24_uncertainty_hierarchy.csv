@@ -1,0 +1,13 @@
+layer,authority_level,control_authority,lower_boundary_min_percent,lower_boundary_central_percent,lower_boundary_max_percent,n_entries,status
+calibration_conditioned_monte_carlo,0,Frozen,14.152083333333332,14.191666666666666,14.191666666666666,1,AVAILABLE
+calibration_conditioned_monte_carlo,1,≤1 actuator,13.360416666666664,13.399999999999999,13.439583333333333,1,AVAILABLE
+calibration_conditioned_monte_carlo,2,≤2 actuators,10.470833333333331,10.589583333333334,10.708333333333334,1,AVAILABLE
+independent_thermodynamic_parameterization,0,Frozen,14.152083333333332,14.152083333333332,14.152083333333332,1,AVAILABLE
+independent_thermodynamic_parameterization,1,≤1 actuator,13.360416666666664,13.360416666666664,13.360416666666664,1,AVAILABLE
+independent_thermodynamic_parameterization,2,≤2 actuators,10.470833333333331,10.470833333333331,10.470833333333331,1,AVAILABLE
+kinetic_front_utilization_sensitivity,0,Frozen,14.617187499999998,14.617187499999998,14.617187499999998,3,AVAILABLE
+kinetic_front_utilization_sensitivity,1,≤1 actuator,12.0046875,13.399999999999999,14.171875,3,AVAILABLE
+kinetic_front_utilization_sensitivity,2,≤2 actuators,9.4515625,10.609374999999998,11.61875,3,AVAILABLE
+thermodynamic_model_discrepancy_stress,0,Frozen,12.291666666666668,13.993749999999999,14.231250000000001,10,AVAILABLE
+thermodynamic_model_discrepancy_stress,1,≤1 actuator,12.133333333333333,13.004166666666666,13.479166666666664,10,AVAILABLE
+thermodynamic_model_discrepancy_stress,2,≤2 actuators,9.6,9.837499999999999,10.7875,10,AVAILABLE

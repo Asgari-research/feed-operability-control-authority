@@ -1,0 +1,4 @@
+feed_co2_percent,recovery_median_percent,recovery_q25_percent,recovery_q75_percent,n_runs
+8.0,47.85,43.5,51.1,62
+12.0,60.9,59.94999999999999,64.39999999999999,7
+16.0,66.8,60.675000000000004,70.075,6

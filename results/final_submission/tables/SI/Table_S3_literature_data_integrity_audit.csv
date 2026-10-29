@@ -1,0 +1,16 @@
+check,observed,expected,status,detail,note
+data_package_version_json,not supplied,optional for legacy packages,INFO,Legacy package mode; scientific parser remains usable.,
+provenance/catalog/source_registry.csv,present,present in the packaged data,PASS,,
+provenance/catalog/numeric_fact_registry.csv,present,present in the packaged data,PASS,,
+provenance/catalog/data_gap_register.csv,present,present in the packaged data,PASS,,
+external_pilot_numeric_rows,75,>=1,PASS,,
+external_pilot_fraction_bounds,0,0,PASS,,
+external_pilot_peer_reviewed_doi,10.1016/j.cej.2026.174238,10.1016/j.cej.2026.174238,PASS,,
+wilkins_pilot_total_rows,75,75,PASS,,
+wilkins_laminate_rows,61,61,PASS,,
+wilkins_packed_rows,14,14,PASS,,
+wilkins_feed_fraction_set,"[np.float64(0.08), np.float64(0.12), np.float64(0.16)]","[0.08, 0.12, 0.16]",PASS,,
+wilkins_source_table_counts,"{'S1': 6, 'S2': 7, 'S3-1': 20, 'S3-2': 16, 'S4': 12, 'S5': 14}","{'S1': 6, 'S2': 7, 'S3-1': 20, 'S3-2': 16, 'S4': 12, 'S5': 14}",PASS,,
+wilkins_cycle_time_step_sum_max_abs_delta_s,0.0,0.0,PASS,,
+external_equilibrium_sensitivity_rows,249,>=1 recommended,PASS,,
+high_fidelity_css_rows,0,0 is permitted until new CSS calculations are supplied,INFO,No CSS rows are fabricated by this package.,Only files with complete feed/purity/recovery result fields count; CSS priors/configurations are excluded.

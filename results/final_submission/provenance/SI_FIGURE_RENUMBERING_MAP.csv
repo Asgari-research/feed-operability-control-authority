@@ -1,0 +1,22 @@
+final_si_figure,legacy_si_figure,file,caption
+S1,S1,Figure_S01_raw_source_overlays.pdf,Source-resolved raw adsorption inputs
+S2,S2,Figure_S02_fit_residuals.pdf,Unary-equilibrium fit residuals
+S3,S3,Figure_S03_alternative_isotherms.pdf,Sensitivity to alternative unary isotherm forms
+S4,S4,Figure_S04_bootstrap_distributions.pdf,Calibration-conditioned parameter distributions
+S5,S5,Figure_S05_extrapolation_map.pdf,Pressure and composition extrapolation map
+S6,S6,Figure_S06_engineering_sensitivity.pdf,Declared engineering-assumption sensitivity
+S7,S7,Figure_S07_blocked_leave_one_temperature_out.pdf,Leave-one-temperature-out equilibrium tests
+S8,S8,Figure_S08_uncertainty_classification.pdf,Authority-class membership under conditional uncertainty
+S9,S9,Figure_S09_full_domain_map.pdf,Full feed-domain and evidence-support map
+S10,S10,Figure_S10_numerical_verification.pdf,Numerical and control-grid verification
+S11,S11,Figure_S11_source_data_validation.pdf,Source-data provenance and integrity checks
+S12,S13,Figure_S12_target_threshold_sensitivity.pdf,Purity--recovery specification dependence
+S13,S13b,Figure_S13_target_sensitivity_heatmaps.pdf,Target-sensitivity heat maps
+S14,S14,Figure_S14_adaptation_recovery_decomposition.pdf,"Frozen shortfall, recovered deficit and residual limitation"
+S15,S15,Figure_S15_external_pilot_validation.pdf,Independent pilot experiment contextual comparison
+S16,S16,Figure_S16_external_thermodynamic_source_sensitivity.pdf,External equilibrium source sensitivity
+S17,S17,Figure_S17_thermodynamic_discrepancy_stress.pdf,Thermodynamic discrepancy stress scenarios
+S18,S21,Figure_S18_control_jacobian_singular_values.pdf,Local control Jacobian singular values and coupling
+S19,S22,Figure_S19_equipment_realizability.pdf,Equipment-realizable operating envelope
+S20,S23,Figure_S20_quasisteady_policy_comparison.pdf,Quasi-steady disturbance-policy comparison
+S21,S24,Figure_S21_uncertainty_hierarchy.pdf,Layered sources of lean-boundary uncertainty
